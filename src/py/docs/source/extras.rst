@@ -14,6 +14,16 @@ To install **all** features simply run
     pip install idom[all]
 
 
+Sanic Layout Server
+-------------------
+
+At the moment this is the only supported :ref:`Layout Server` available for IDOM:
+
+.. code-block:: bash
+
+    pip install idom[sanic]
+
+
 Compatibility with Nteract's VDOM
 ---------------------------------
 
